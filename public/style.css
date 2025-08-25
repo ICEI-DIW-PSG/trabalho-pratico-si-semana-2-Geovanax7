@@ -6,7 +6,7 @@ body {
 }
 
 nav {
-  background-color: #444;
+  background-color: #594c5a;
   padding: 10px;
 }
 
@@ -21,26 +21,26 @@ nav.a {
   text-decoration: none;
 }
 
-div class = container {
+.container {
   display: flex;
   max-width: 1000px;
   margin: 20px auto;
   gap: 20px;
 }
 
-div class = sidebar {
+.sidebar {
   width: 30%;
   background-color: #fff;
   padding: 20px;
   border-radius: 8px;
 }
 
-div class = foto-perfil {
-  width: 100%;
+.foto-perfil {
+  width: 80%;
   border-radius: 8px;
 }
 
-div class= conteudo {
+.conteudo {
   width: 70%;
   background-color: #fff;
   padding: 20px;
