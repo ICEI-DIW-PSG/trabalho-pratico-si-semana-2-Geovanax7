@@ -3,8 +3,9 @@
 # template-diw-20251-semana-02
 
 ## Informações Gerais
-- Nome: 
-- Matricula:
+- Nome: GEOVANA DE SOUZA FERREIRA
+- Matricula: 901354
+
 
 ## Print da tela da página criada (Curriculum Vitae)
 
